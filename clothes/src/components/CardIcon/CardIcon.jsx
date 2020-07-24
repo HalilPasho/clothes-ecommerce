@@ -1,6 +1,6 @@
 import React from "react";
 import "./CardIconStyless.scss";
-import { ReactComponent as ShoppingCard } from "../assets/shopping-bag.svg";
+import { ReactComponent as ShoppingCard } from "../../assets/shopping-bag.svg";
 
 const CardIcon = () => {
   return (
